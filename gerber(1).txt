@@ -1,0 +1,11 @@
+Info: Escala X restringida.
+Info: Escala Y restringida.
+Trazado a '/Users/isidorarodrigueez/Downloads/rehaforce_kicad (2)/rehaforce-F_Cu.gbr'.
+Trazado a '/Users/isidorarodrigueez/Downloads/rehaforce_kicad (2)/rehaforce-B_Cu.gbr'.
+Trazado a '/Users/isidorarodrigueez/Downloads/rehaforce_kicad (2)/rehaforce-F_Silkscreen.gbr'.
+Trazado a '/Users/isidorarodrigueez/Downloads/rehaforce_kicad (2)/rehaforce-B_Silkscreen.gbr'.
+Trazado a '/Users/isidorarodrigueez/Downloads/rehaforce_kicad (2)/rehaforce-F_Mask.gbr'.
+Trazado a '/Users/isidorarodrigueez/Downloads/rehaforce_kicad (2)/rehaforce-B_Mask.gbr'.
+Trazado a '/Users/isidorarodrigueez/Downloads/rehaforce_kicad (2)/rehaforce-Edge_Cuts.gbr'.
+Archivo de trabajo Gerber '/Users/isidorarodrigueez/Downloads/rehaforce_kicad (2)/rehaforce-job.gbrjob' creado.
+Info: Listo.
