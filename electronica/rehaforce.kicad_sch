@@ -3405,6 +3405,7 @@
 	(symbol
 		(lib_id "Device:LED")
 		(at 182.88 105.41 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3412,10 +3413,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8507a0ad-9a24-47b9-98bd-b97492450408")
 		(property "Reference" "D1"
-			(at 181.2925 99.06 0)
+			(at 184.4675 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3425,7 +3425,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 181.2925 101.6 0)
+			(at 184.4675 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3672,7 +3672,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LCD_20x4_I2C"
+		(property "Value" "OLED_1.3_I2C"
 			(at 110.49 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
